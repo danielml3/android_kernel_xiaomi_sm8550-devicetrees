@@ -1,4 +1,4 @@
-DTC_INCLUDE += $(srctree)/../sm8550-modules/qcom/opensource/camera-kernel
+DTC_INCLUDE += $(srctree)/../socrates-modules/qcom/opensource/camera-kernel
 
 include $(srctree)/$(src)/config/kalama.mk
 
